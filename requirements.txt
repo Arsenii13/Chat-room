@@ -1,1 +1,2 @@
-os flask flask_socketio random
+flask
+flask_socketio
