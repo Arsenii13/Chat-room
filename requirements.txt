@@ -1,1 +1,1 @@
-os string flask flask_socketio random
+os flask flask_socketio random
